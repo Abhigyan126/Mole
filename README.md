@@ -11,7 +11,6 @@ A command-line Rust tool to print directory trees with optional file sizes.
 - [Usage](#usage)
 - [Examples](#examples)
 - [Output Format](#output-format)
-- [License](#license)
 
 ## Features
 
